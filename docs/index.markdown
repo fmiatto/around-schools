@@ -47,4 +47,4 @@ As such, going to the [Geofabrik's](http://download.geofabSrik.de/) daily OpenSt
 
 `.osm.pbf` is the highly compressed, optimized binary format for the Planet file. It's faster to write and read to the disk.
 
-![ alt text for screen readers](/assets/images/01-index-01-download-brazil.png "Text to show on mouseover")
+![ alt text for screen readers](/around-schools/assets/images/01-index-01-download-brazil.png "Text to show on mouseover")
